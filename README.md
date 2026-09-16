@@ -11,6 +11,14 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/avirupdey2006)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://avirup-dey-portfolio.netlify.app/)
 
+<br><br>
+
+<img
+  src="./assets/visual-map/visual-map.gif"
+  alt="AVIRUP DEY — VISUAL.MAP"
+  width="100%"
+>
+
 </div>
 
 ---
@@ -150,29 +158,7 @@ A software-based autonomous mobile robot fleet simulation focused on communicati
 
 # 🗺️ SYSTEM ARCHITECTURE
 
-```text
-                              AVIRUP.DEV
-                                  │
-              ┌───────────────────┼───────────────────┐
-              │                   │                   │
-             AI              CYBERSECURITY          WEB3
-              │                   │                   │
-        ┌─────┴─────┐       ┌─────┴─────┐       ┌────┴────┐
-        │           │       │           │       │         │
-     PyTorch      ONNX     Kali        Burp   Solidity    ZK
-        │           │       │           │       │         │
-        └───────────┴───────┴───────────┴───────┴─────────┘
-                                  │
-                                  ▼
-                         SYSTEM ENGINEERING
-                                  │
-                     Python · Java · Node.js
-                                  │
-                         React · Spring Boot
-```
-
-> **This is the structural placeholder for the future VISUAL.MAP.**
-> It will later be replaced with a custom graphical system visualization.
+> **Architecture visualization is actively running in the VISUAL.MAP terminal at the top of this profile.**
 
 ---
 
